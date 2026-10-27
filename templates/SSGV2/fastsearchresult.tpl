@@ -1,0 +1,1 @@
+<a class="fast-search-item" href="{full-link}">{title}</a>

@@ -1,0 +1,11 @@
+/capture.cjs
+/site-*.html
+/publication-*.html
+/publication-*.json
+/dist/
+/node_modules/
+*.log
+*.tmp
+.env*
+Pass.txt
+LOCAL-ACCESS.txt

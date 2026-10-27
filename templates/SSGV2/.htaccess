@@ -1,0 +1,6 @@
+Require all granted
+<FilesMatch "\.(tpl|php|phtml|phar|json)$">
+Require all denied
+</FilesMatch>
+
+Options -Indexes

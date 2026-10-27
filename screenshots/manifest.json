@@ -1,0 +1,41 @@
+{
+  "capturedAt": "2026-10-27T07:15:20.763Z",
+  "palette": "light with dark sidebar; no theme switch",
+  "screenshots": [
+    {
+      "file": "desktop-1920.png",
+      "width": 1920,
+      "height": 1080,
+      "fullPage": false,
+      "promotionPresent": false
+    },
+    {
+      "file": "laptop-1366.png",
+      "width": 1366,
+      "height": 900,
+      "fullPage": false,
+      "promotionPresent": false
+    },
+    {
+      "file": "tablet-820.png",
+      "width": 820,
+      "height": 1180,
+      "fullPage": false,
+      "promotionPresent": false
+    },
+    {
+      "file": "mobile-390.png",
+      "width": 390,
+      "height": 844,
+      "fullPage": false,
+      "promotionPresent": false
+    },
+    {
+      "file": "article-desktop.png",
+      "width": 1440,
+      "height": 960,
+      "fullPage": false,
+      "promotionPresent": false
+    }
+  ]
+}

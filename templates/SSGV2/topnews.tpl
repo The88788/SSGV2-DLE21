@@ -1,0 +1,1 @@
+<a class="top-item" href="{link}"><span>{title}</span><span aria-hidden="true">↗</span></a>

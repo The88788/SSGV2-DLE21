@@ -1,0 +1,1 @@
+<a class="related-item" href="{link}">{title}<span aria-hidden="true"> ↗</span></a>

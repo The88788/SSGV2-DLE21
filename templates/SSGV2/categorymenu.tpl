@@ -1,0 +1,1 @@
+[root]<ul class="category-list">[/root][item]<li><a href="{url}"[active] aria-current="page"[/active]>{name}<span>{news-count}</span></a>{sub-item}</li>[/item][sub-prefix]<ul>[/sub-prefix][sub-suffix]</ul>[/sub-suffix][root]</ul>[/root]
