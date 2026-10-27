@@ -6,7 +6,7 @@ SSGV2 — шаблон для блога, сообщества и информа
 
 **Одна согласованная палитра:** светлый контент и тёмная боковая панель. Переключателя светлой/тёмной темы в этой версии нет.
 
-[Скачать ZIP последнего релиза](https://github.com/The88788/SSGV2-DLE21/releases/latest) · [The88788.com](https://the88788.com/) · [Telegram](https://t.me/The88788)
+[Публикация на The88788.com](https://the88788.com/files/dle/templates/dle21/130-ssgv2-dle-21.html) · [Скачать ZIP последнего релиза](https://github.com/The88788/SSGV2-DLE21/releases/latest) · [The88788.com](https://the88788.com/) · [Telegram](https://t.me/The88788)
 
 ![SSGV2 — главный экран, 1920 × 1080](screenshots/desktop-1920.png)
 
